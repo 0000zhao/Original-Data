@@ -11,4 +11,4 @@ We present the test results of various comparsion algorithms and our method on t
 │ └── MEF
 ```
 
-The original code will be published after the paper is accepted.
+The paper is currently under review. Once the paper is officially accepted, we will upload the source code and pre-trained model.
